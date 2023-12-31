@@ -1,7 +1,9 @@
 # Your First 2D Game - Godot
 
 ## Screenshots
-![Screenshot](screenshots/2023-12-31_18-46-54.png)
+<p align="center">
+  <img width="200" height="300" src="screenshots/2023-12-31_18-46-54.png">
+</p>
 
 ## Descrição
 Este projeto é um tutorial básico para iniciantes no desenvolvimento de jogos usando o Godot Engine. 
